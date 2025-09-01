@@ -21,3 +21,5 @@ $ sudo systemctl restart docker
 $ docker run -d --gpus=all -v ollama:/root/.ollama -p 11434:11434 --name ollama ollama/ollama
 ```
 _et voilà!_ we have our LLM safely deployed. Last but not least, we have to select the model to play around. In my case I have gone with DeepSeek-R1-0528-Qwen3-1.5B cuz I want something little (my PC is 10 years old and working with a 750Ti wont take me that far way).
+
+Still not the most comfortable display; using bash for LLM query is not what I'd like to be doing. Thefore, we will deploy yet another service: **OpenWebUI**,which I'll be able to use to access my LLM via web, as I'd do with ChatGPT or Claude online.
