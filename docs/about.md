@@ -3,7 +3,7 @@
   <div class="about-header-content">
     <h1 class="title">Hi I'm J!</h1>
     <div class="about-socials" style="display:flex;gap:1.25rem;align-items:center;flex-wrap:wrap;margin-top:0.5rem;">
-  <a href="https://scholar.google.com/citations?user=OVXyJ5MAAAAJ&hl=en" target="_blank" rel="noopener" style="display:inline-flex;align-items:center;gap:0.5rem;text-decoration:none;color:var(--color-accent-2);">
+  <a href="https://scholar.google.com/citations?user=1-3UBRAAAAAJ&hl=es" target="_blank" rel="noopener" style="display:inline-flex;align-items:center;gap:0.5rem;text-decoration:none;color:var(--color-accent-2);">
     <svg viewBox="0 0 24 24" role="img" aria-hidden="true" style="width:20px;height:20px;opacity:0.9;" xmlns="http://www.w3.org/2000/svg" fill="currentColor">
       <path d="M12 24a7 7 0 1 1 0-14 7 7 0 0 1 0 14zm0-24L0 9.5l4.838 3.94A8 8 0 0 1 12 9a8 8 0 0 1 7.162 4.44L24 9.5z"/>
     </svg>
@@ -27,15 +27,4 @@
 </div>
 
 
-
-I'm a 2nd year **DPhil student in Machine Learning at the University of Oxford**, supervised by Jakob Foerster and focusing on AI Security, Safety, and Interpretability. I'm best known for my **NeurIPS 2025 Spotlight paper AgentBreeder**, which explores evolutionary automated red team and blue team scaffold generation.
-
-**Career update!** I've joined [Neel Nanda](https://x.com/NeelNanda5)'s Language Model Interpretability team as a contractor employed by Adecco, supporting [Google DeepMind](https://deepmind.google/)! I'll be working on interp and data attribution. This comes after a fantastic internship at [Cohere](https://cohere.com/) with [Acyr Locatelli](https://x.com/acyr_l) — lots of exciting work from that time to share soon!
-
-I previously participated in **Neel Nanda's MATS 10.0 Exploration Phase** and served as a **Teaching Assistant for ARENA 7.0** (Mechanistic Interpretability week).
-
-Previously, I was a **Research Scientist Intern at Spotify** and worked with **UK AISI on agentic scaffolds for Inspect** as part of their Bounty Programme. I was also the founding Research Scientist at Convergence (acquired by Salesforce for est. $200M), contributing to Proxy, a state-of-the-art multimodal web agent with 100k+ users.
-
-I'm a member of LISA (London Initiative for Safe AI) and enjoy playing trumpet in a funk band, running bouldering socials, and helping new climbers get certified.
-
-P.S. There are some easter eggs on this website - find one and drop the emoji in your email subject line!
+I'm a 2nd year **PhD Student in Computer Engineering at the Universitat Politècnica de València (UPV)**. My thesis is being supervised by Enrique S. Quintana-Ortí, and it's focused on collaborative learning through learning neural architectures representations, including analyzing the convergence of said representations, including them in Federated Learning (FL) frameworks and so on. 
