@@ -674,6 +674,20 @@ button:focus-visible {
     scroll-margin-top: 8rem; /* Increased to account for fixed header */
 }
 
+/* Treat hash-linked sections as separate pages. */
+main > section {
+    display: none;
+}
+
+main > section:first-of-type,
+main > section:target {
+    display: block;
+}
+
+main:has(> section:target) > section:not(:target) {
+    display: none;
+}
+
 @media (max-width: 640px) {
     :target {
         scroll-margin-top: 5rem; /* Reduced for mobile */

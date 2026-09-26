@@ -120,50 +120,6 @@ class MobileNavigation {
     }
 }
 
-// Smooth scrolling for navigation links
-class SmoothScroll {
-    constructor() {
-        this.init();
-    }
-
-    init() {
-        // Handle navigation link clicks
-        const navLinks = document.querySelectorAll('a[href^="#"]');
-        
-        navLinks.forEach(link => {
-            link.addEventListener('click', (e) => {
-                e.preventDefault();
-                const targetId = link.getAttribute('href');
-                const targetElement = document.querySelector(targetId);
-                
-                if (targetElement) {
-                    // Compute dynamic offset based on actual header height
-                    const header = document.getElementById('main-header');
-                    const headerHeight = header ? Math.ceil(header.getBoundingClientRect().height) : 0;
-                    const extraMargin = 8; // small breathing room below the header
-                    const targetRect = targetElement.getBoundingClientRect();
-                    const targetPosition = window.pageYOffset + targetRect.top - (headerHeight + extraMargin);
-                    
-                    // Immediately update active state for better UX
-                    const sectionId = targetId.substring(1);
-                    const navigationHighlight = window.navigationHighlightInstance;
-                    if (navigationHighlight) {
-                        navigationHighlight.highlightNavLink(sectionId);
-                    }
-                    
-                    window.scrollTo({
-                        top: targetPosition,
-                        behavior: 'smooth'
-                    });
-                    
-                    // Update URL without triggering scroll
-                    history.pushState(null, null, targetId);
-                }
-            });
-        });
-    }
-}
-
 // Active navigation link highlighting
 class NavigationHighlight {
     constructor() {
@@ -481,7 +437,6 @@ document.addEventListener('DOMContentLoaded', () => {
     // Initialize all components
     new ThemeManager();
     new MobileNavigation();
-    new SmoothScroll();
     
     // Make NavigationHighlight available globally for smooth scroll integration
     window.navigationHighlightInstance = new NavigationHighlight();
