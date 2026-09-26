@@ -3,141 +3,104 @@
 ## 2026
 
 <div class="publication-card">
-    <div class="publication-image">
-        <img src="assets/infusion_big_figure.jpg" alt="Infusion publication">
-    </div>
     <div class="publication-content">
         <h3 class="publication-title">
-            <a href="/infusion" class="publication-link">
-                Infusion: Shaping Model Behavior by Editing Training Data via Influence Functions
-            </a>
+            <a href="https://arxiv.org/abs/2605.22266" class="publication-link">Detecting Atypical Clients in Federated Learning via Representation-Level Divergence</a>
         </h3>
-        <div class="publication-venue">Preprint</div>
-        <div class="publication-authors">J Rosser, Robert Kirk, Edward Grefenstette, Jakob Foerster, Laura Ruis</div>
-        <div class="publication-year">2026</div>
+        <div class="publication-venue">FLICS 2026</div>
+        <div class="publication-authors"><strong>Cristian Pérez-Corral</strong>, Jose I. Mestre, Alberto Fernández-Hernández, Manuel F. Dolz, Enrique S. Quintana-Ortí</div>
+        <div class="publication-year">May 2026</div>
         <div class="publication-tags">
-            <span class="tag tag-safety">AI Security</span>
-            <a href="/infusion" class="tag tag-arxiv">PROJECT</a>
-            <a href="https://arxiv.org/abs/2602.09987" class="tag tag-arxiv">ARXIV</a>
-            <a href="https://github.com/jrosseruk/infusion" class="tag tag-github">GITHUB</a>
+            <span class="tag tag-safety">Federated Learning</span>
+            <span class="tag tag-interpretability">Model Monitoring</span>
+            <a href="https://arxiv.org/abs/2605.22266" class="tag tag-arxiv">ARXIV</a>
+            <a href="https://doi.org/10.1109/FLICS70075.2026.11621891" class="tag tag-conference">DOI</a>
         </div>
     </div>
 </div>
 
 <div class="publication-card">
-    <div class="publication-image">
-        <img src="assets/gradient_atoms_scatter.jpg" alt="Gradient Atoms publication">
-    </div>
     <div class="publication-content">
         <h3 class="publication-title">
-            <a href="/gradient_atoms" class="publication-link">
-                Gradient Atoms: Unsupervised Discovery, Attribution and Steering of Model Behaviors via Sparse Decomposition of Training Gradients
-            </a>
+            <a href="https://arxiv.org/abs/2605.10119" class="publication-link">Refresh-Scaling the Memory of Balanced Adam</a>
         </h3>
-        <div class="publication-venue">Preprint</div>
-        <div class="publication-authors">J Rosser</div>
-        <div class="publication-year">2026</div>
+        <div class="publication-venue">HiLD @ ICML 2026</div>
+        <div class="publication-authors">Alberto Fernández-Hernández, <strong>Cristian Pérez-Corral</strong>, Jose I. Mestre, Manuel F. Dolz, Enrique S. Quintana-Ortí</div>
+        <div class="publication-year">May 2026</div>
         <div class="publication-tags">
-            <span class="tag tag-interpretability">Interpretability</span>
-            <span class="tag tag-safety">Data Attribution</span>
-            <a href="/gradient_atoms" class="tag tag-arxiv">PROJECT</a>
+            <span class="tag tag-conference">Optimization</span>
+            <span class="tag tag-interpretability">Training Dynamics</span>
+            <a href="https://arxiv.org/abs/2605.10119" class="tag tag-arxiv">ARXIV</a>
         </div>
     </div>
 </div>
+
+<div class="publication-card">
+    <div class="publication-content">
+        <h3 class="publication-title">
+            <a href="https://arxiv.org/abs/2604.02990" class="publication-link">FedSQ: Optimized Weight Averaging via Fixed Gating</a>
+        </h3>
+        <div class="publication-venue">FLICS 2026</div>
+        <div class="publication-authors"><strong>Cristian Pérez-Corral</strong>, Jose I. Mestre, Alberto Fernández-Hernández, Manuel F. Dolz, José Duato, Enrique S. Quintana-Ortí</div>
+        <div class="publication-year">April 2026</div>
+        <div class="publication-tags">
+            <span class="tag tag-safety">Federated Learning</span>
+            <span class="tag tag-interpretability">Activation Geometry</span>
+            <a href="https://arxiv.org/abs/2604.02990" class="tag tag-arxiv">ARXIV</a>
+            <a href="https://doi.org/10.1109/FLICS70075.2026.11621960" class="tag tag-conference">DOI</a>
+        </div>
+    </div>
+</div>
+
+<div class="publication-card">
+    <div class="publication-content">
+        <h3 class="publication-title">
+            <a href="https://arxiv.org/abs/2603.21991" class="publication-link">λ-GELU: Learning Gating Hardness for Controlled ReLU-ization in Deep Networks</a>
+        </h3>
+        <div class="publication-venue">AMLDS 2026</div>
+        <div class="publication-authors"><strong>Cristian Pérez-Corral</strong>, Alberto Fernández-Hernández, Jose I. Mestre, Manuel F. Dolz, Enrique S. Quintana-Ortí</div>
+        <div class="publication-year">March 2026</div>
+        <div class="publication-tags">
+            <span class="tag tag-workshop">Activation Functions</span>
+            <span class="tag tag-interpretability">Training Dynamics</span>
+            <a href="https://arxiv.org/abs/2603.21991" class="tag tag-arxiv">ARXIV</a>
+        </div>
+    </div>
+</div>
+
+
+<div class="publication-card">
+    <div class="publication-content">
+        <h3 class="publication-title">
+            <a href="https://arxiv.org/abs/2602.08333" class="publication-link">Regime Change Hypothesis: Foundations for Decoupled Dynamics in Neural Network Training</a>
+        </h3>
+        <div class="publication-venue">IJCNN 2026</div>
+        <div class="publication-authors"><strong>Cristian Pérez-Corral</strong>, Alberto Fernández-Hernández, Jose I. Mestre, Manuel F. Dolz, Jose Duato, Enrique S. Quintana-Ortí</div>
+        <div class="publication-year">February 2026</div>
+        <div class="publication-tags">
+            <span class="tag tag-interpretability">Training Dynamics</span>
+            <span class="tag tag-workshop">Activation Geometry</span>
+            <a href="https://arxiv.org/abs/2602.08333" class="tag tag-arxiv">ARXIV</a>
+        </div>
+    </div>
+</div>
+
 
 ## 2025
 
 <div class="publication-card">
-    <div class="publication-image">
-        <img src="assets/AgentBreederDiagramJPG.jpg" alt="AgentBreeder publication">
-    </div>
     <div class="publication-content">
         <h3 class="publication-title">
-            <a href="/AgentBreeder" class="publication-link">
-                AgentBreeder: Mitigating the AI Safety Impact of Multi-Agent Scaffolds via Self-Improvement
-            </a>
+            <a href="https://doi.org/10.3934/math.20241539" class="publication-link">Uplifting Edges in Higher-Order Networks: Spectral Centralities for Non-Uniform Hypergraphs</a>
         </h3>
-        <div class="publication-venue">NeurIPS 2025 spotlight</div>
-        <div class="publication-authors">J Rosser, Jakob Foerster</div>
-        <div class="publication-year">2025</div>
+        <div class="publication-venue">AIMS Mathematics, 9(11), 32045–32075</div>
+        <div class="publication-authors">Gonzalo Contreras-Aso, <strong>Cristian Pérez-Corral</strong>, Miguel Romance</div>
+        <div class="publication-year">November 2024</div>
         <div class="publication-tags">
-            <span class="tag tag-safety">Multi-Agent Safety</span>
-            <a href="https://arxiv.org/abs/2502.00757" class="tag tag-arxiv">ARXIV</a>
-            <a href="https://github.com/J-Rosser-UK/AgentBreeder" class="tag tag-github">GITHUB</a>
-        </div>
-    </div>
-</div>
-
-<div class="publication-card">
-    <div class="publication-image">
-        <img src="assets/stream_jpg.jpg" alt="Stream publication">
-    </div>
-    <div class="publication-content">
-        <h3 class="publication-title">
-            <a href="https://arxiv.org/pdf/2510.19875" class="publication-link">
-                Stream: Scaling Mechanistic Interpretability to Long Context in LLMs via Sparse Attention
-            </a>
-        </h3>
-        <div class="publication-venue">NeurIPS 2025 Mech Interp Workshop</div>
-        <div class="publication-authors">J Rosser, José Luis Redondo García, Gustavo Penha, Konstantina Palla, Hugues Bouchard</div>
-        <div class="publication-year">2025</div>
-        <div class="publication-tags">
-            <span class="tag tag-safety">Mechanistic Interpretability</span>
-            <a href="https://arxiv.org/pdf/2510.19875" class="tag tag-arxiv">ARXIV</a>
-        </div>
-    </div>
-</div>
-
-<div class="publication-card">
-    <div class="publication-image">
-        <img src="assets/mapping_faithful.jpg" alt="Mapping Faithful Reasoning publication">
-    </div>
-    <div class="publication-content">
-        <h3 class="publication-title">
-            <a href="https://openreview.net/pdf?id=NJNr5KbW3m" class="publication-link">
-                Mapping Faithful Reasoning in Language Models
-            </a>
-        </h3>
-        <div class="publication-venue">NeurIPS 2025 Mech Interp Workshop</div>
-        <div class="publication-authors">Jiazheng Li, Andreas Damianou, J Rosser, José Luis Redondo García, Konstantina Palla</div>
-        <div class="publication-year">2025</div>
-        <div class="publication-tags">
-            <span class="tag tag-safety">Mechanistic Interpretability</span>
-            <a href="https://openreview.net/pdf?id=NJNr5KbW3m" class="tag tag-arxiv">ARXIV</a>
-        </div>
-    </div>
-</div>
-
-<div class="publication-card">
-    <div class="publication-content">
-        <h3 class="publication-title">
-            <a href="https://github.com/jrosseruk/CyberAgentBreeder" class="publication-link">
-                CyberAgentBreeder: An Evolutionary Framework for Breeding LLM Cybersecurity Agents
-            </a>
-        </h3>
-        <div class="publication-venue">UK AISI Bounty Programme • Project</div>
-        <div class="publication-authors">J Rosser, Joe Skinner</div>
-        <div class="publication-year">2025</div>
-        <div class="publication-tags">
-            <span class="tag tag-safety">Agentic Scaffolds</span>
-            <a href="https://github.com/jrosseruk/CyberAgentBreeder" class="tag tag-github">GITHUB</a>
-        </div>
-    </div>
-</div>
-
-<div class="publication-card">
-    <div class="publication-content">
-        <h3 class="publication-title">
-            <a href="https://www.lesswrong.com/posts/qwAiKvomuAm5ekC4D/subliminal-learning-transmitting-misalignment-via" class="publication-link">
-                Transmitting Misalignment with Subliminal Learning via Paraphrasing
-            </a>
-        </h3>
-        <div class="publication-venue">LessWrong</div>
-        <div class="publication-authors">Matthew Bozoukov, Taywon Min, J Rosser, Callum McDougall</div>
-        <div class="publication-year">2025</div>
-        <div class="publication-tags">
-            <span class="tag tag-safety">AI Safety</span>
-            <a href="https://www.lesswrong.com/posts/qwAiKvomuAm5ekC4D/subliminal-learning-transmitting-misalignment-via" class="tag tag-arxiv">LESSWRONG</a>
+            <span class="tag tag-safety">Higher-Order Networks</span>
+            <span class="tag tag-interpretability">Spectral Theory</span>
+            <a href="https://arxiv.org/abs/2310.20335" class="tag tag-arxiv">ARXIV</a>
+            <a href="https://doi.org/10.3934/math.20241539" class="tag tag-conference">DOI</a>
         </div>
     </div>
 </div>
