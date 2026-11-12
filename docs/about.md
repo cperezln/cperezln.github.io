@@ -1,7 +1,10 @@
 <div class="about-header">
   <img src="assets/profile.jpeg" alt="Portrait of Cristian Pérez-Corral" class="about-avatar" width="160" height="160" loading="lazy" />
   <div class="about-header-content">
-    <h1 class="title">I am Tián!</h1>
+    <h1 class="title">Cristian Pérez-Corral</h1>
+  <p class="about-subtitle">
+    Computational Mathematician · PhD Researcher
+  </p>
     <div class="about-socials" style="display:flex;gap:1.25rem;align-items:center;flex-wrap:wrap;margin-top:0.5rem;">
   <a href="https://scholar.google.com/citations?user=1-3UBRAAAAAJ&hl=es" target="_blank" rel="noopener" style="display:inline-flex;align-items:center;gap:0.5rem;text-decoration:none;color:var(--color-accent-2);">
     <svg viewBox="0 0 24 24" role="img" aria-hidden="true" style="width:20px;height:20px;opacity:0.9;" xmlns="http://www.w3.org/2000/svg" fill="currentColor">
@@ -27,4 +30,14 @@
 </div>
 
 
-I'm a 2nd year **PhD Student in Computer Engineering at the Universitat Politècnica de València (UPV)**. My thesis is being supervised by Enrique S. Quintana-Ortí, and it's focused on collaborative learning through learning neural architectures representations, including analyzing the convergence of said representations, including them in Federated Learning (FL) frameworks and so on. 
+I am a second-year PhD student in Computer Engineering at the Universitat Politècnica de València (UPV), under the supervision of Prof. Enrique S. Quintana-Ortí. My doctoral research lies at the intersection of Deep Learning, Neural Representations, and Collaborative Learning. In particular, I investigate how neural networks develop and refine their internal representations throughout training, and how these representations can be leveraged to improve collaboration in Federated and Decentralized Learning environments, particularly under data heterogeneity and computational or communication constraints.
+
+With a background in both Mathematics and Computer Engineering, I have always identified more closely with Computational Mathematics than with Computer Science alone. My research interests reflect this perspective, combining mathematical foundations with practical applications in machine learning and distributed systems.
+
+Beyond my current doctoral research, my interests span three closely related areas:
+
+- Collaborative Learning: My primary research interest is collaborative learning, including distributed, federated, and decentralized learning. I am particularly interested in understanding how independently trained models interact, exchange information, and benefit from collaboration despite heterogeneous data distributions, limited communication resources, and network constraints. More broadly, I aim to understand how the structure of collaborative systems influences learning dynamics and how information extracted from learned representations can guide more efficient collaboration.
+
+- Knowledge Representation: I am interested in how knowledge can be learned, represented, and manipulated in computationally tractable and interpretable ways. This encompasses both subsymbolic approaches, such as latent representations learned by neural networks, and symbolic approaches, such as action models acquired through automated planning and logical reasoning. A recurring question in my work is how the structure of learned representations can be understood and exploited, whether to characterize the behavior of neural models, improve their efficiency, or facilitate knowledge transfer.
+
+- Complex Systems and Network Science: From a more mathematical perspective, I have a longstanding interest in complex systems, network dynamics, and the structural properties of graphs and hypergraphs. My earlier research on hypergraphs introduced me to several aspects of network theory, which have remained a source of interest ever since. More recently, I have been exploring how these ideas connect with collaborative learning, where networks of interacting learners provide a natural setting for studying the interplay between local behavior, global dynamics, and network structure.

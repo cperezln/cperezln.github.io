@@ -1025,6 +1025,18 @@ html {
     transition: opacity 0.2s ease;
 }
 
+.tag-representation {
+    background-color: color-mix(in srgb, #9457ff 15%, transparent);
+    border-color: #9457ff;
+    color: #9457ff;
+}
+
+.tag-planning {
+    background-color: color-mix(in srgb, #6b7280 15%, transparent);
+    border-color: #6b7280;
+    color: #6b7280;
+}
+
 .tag-safety {
     background-color: color-mix(in srgb, #ef4444 15%, transparent);
     border-color: #ef4444;
