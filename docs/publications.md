@@ -78,7 +78,6 @@
         <div class="publication-tags">
             <span class="tag tag-safety">Federated Learning</span>
             <span class="tag tag-interpretability">Activation Geometry</span>
-            <a href="https://arxiv.org/abs/2604.02990" class="tag tag-arxiv">ARXIV</a>
             <a href="https://doi.org/10.1109/FLICS70075.2026.11621960" class="tag tag-conference">DOI</a>
         </div>
     </div>
@@ -99,7 +98,6 @@
         <div class="publication-tags">
             <span class="tag tag-interpretability">Training Dynamics</span>
             <span class="tag tag-workshop">Activation Geometry</span>
-            <a href="https://arxiv.org/abs/2602.08333" class="tag tag-arxiv">ARXIV</a>
         </div>
     </div>
 </div>
@@ -118,7 +116,6 @@
         <div class="publication-tags">
             <span class="tag tag-safety">Higher-Order Networks</span>
             <span class="tag tag-interpretability">Spectral Theory</span>
-            <a href="https://arxiv.org/abs/2310.20335" class="tag tag-arxiv">ARXIV</a>
             <a href="https://doi.org/10.3934/math.20241539" class="tag tag-conference">DOI</a>
         </div>
     </div>
