@@ -14,7 +14,7 @@
             <span class="tag tag-planning">Landmarks</span>
             <span class="tag tag-representations">Knowledge Representation</span>
             <span class="tag tag-planning">Planning</span>
-            <a href="https://doi.org/10.1109/AMLDS69611.2026.11724005" class="tag tag-conference">DOI</a>
+            <a href="https://doi.org/10.1016/j.procs.2026.09.140" class="tag tag-conference">DOI</a>
         </div>
     </div>
 </div>
